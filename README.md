@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am software engineer working on [Gyroscope](https://gyrosco.pe) you can reach out to me on twitter [@myusuf3](https://twitter.com/myusuf3)
+I am software engineer working on [Gyroscope](https://gyrosco.pe) you can reach out to me on Twitter [@myusuf3](https://twitter.com/myusuf3)
+
+![yooo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
