@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 
-I am CTO @ [Gyroscope](https://gyrosco.pe) you can reach out to me on Twitter [@myusuf3](https://twitter.com/myusuf3) your boy/your pal. speaker, engineer, and home labber.
+I am CTO @ [Gyroscope](https://gyrosco.pe) you can reach out to me on Twitter [@myusuf3](https://twitter.com/myusuf3). Your boy/your pal. speaker, engineer, and home labber.
 
