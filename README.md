@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yooo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![yooo](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
 
 
 
