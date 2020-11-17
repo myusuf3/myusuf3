@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ![yooo](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
 
 
-
-I am CTO @ [Gyroscope](https://gyrosco.pe) you can reach out to me on Twitter [@myusuf3](https://twitter.com/myusuf3). Your boy/your pal. speaker, engineer, and home labber.
+You can reach out to me on Twitter [@myusuf3](https://twitter.com/myusuf3). 
 
