@@ -1,4 +1,4 @@
-### I'm Mahdi! 👋
+### Yo! 👋
 
 <!--
 **myusuf3/myusuf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at 1Password.
-- 📫 How to reach me: https://twitter.com/myusuf3
+- 🔭 I’m currently working at 1Password. Previously CTO @ Gyroscope and various other start ups. 
+- 📫 How to reach me [here](https://twitter.com/myusuf3)!
+- 💬 Ask me about distributed systems and leadership. 
 
 ![](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
 
