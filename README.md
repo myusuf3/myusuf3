@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at 1Password. Previously CTO @ Gyroscope and various other start ups. 
+- 💬 Ask me about distributed systems and leadership.
 - 📫 How to reach me [here](https://twitter.com/myusuf3)!
-- 💬 Ask me about distributed systems and leadership. 
+
 
 ![](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
 
