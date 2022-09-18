@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at 1Password. Previously CTO @ Gyroscope and various other start ups. 
+- 🔭 I’m currently working as Senior Staff Engineer @ 1Password. Previously CTO @ Gyroscope and various other start ups. 
 - 💬 Ask me about distributed systems and leadership.
 - 📫 You can reach me on Twitter [here](https://twitter.com/myusuf3)!
 
