@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 ![](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
 
 
+<a rel="me" href="https://mastodon.social/@myusuf3">Mastodon</a>
+
 
