@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://api.time.com/wp-content/uploads/2018/06/muhammad-ali-pardon.jpg?w=800&quality=85)
+
+<img width="1065" height="1051" alt="79a8e94c-7dfe-4e1c-a0db-c18e7a56a51b" src="https://github.com/user-attachments/assets/b1c2a1e3-7d1f-454d-af90-ee3b2ea65537" />
+
+
 
 
 
